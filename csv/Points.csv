@@ -1,5 +1,5 @@
 Group,Marker Icon,Marker Color,Icon Color,Custom Size,Name,Image,Description,Location,Latitude,Longitude
-Pieces,fa-solid fa-book,#8FBC8F,,10x10,Remembering How to Pray,,<a href='https://www.noazbookfest.org/nez' target='_blank'>Shaina Nez</a>,Shaina Nez ,,
+Pieces,fa-solid fa-book,#8FBC8F,,10x10,Remembering How to Pray,media/ryckman_topo.ai,<a href='https://www.noazbookfest.org/nez' target='_blank'>Shaina Nez</a>,Shaina Nez ,,
 Pieces,fa-solid fa-book,#8FBC8F,,10x10,Dear Rain,,<a href='https://www.noazbookfest.org/walker' target='_blank'>Nicole Walker</a>,Nicole Walker ,35.1983,-111.6513
 Pieces,fa-solid fa-book,#8FBC8F,,10x10,Burnette Songs,,,Harris ,,
 Pieces,fa-solid fa-book,#8FBC8F,white,10x10,The Hidden Miracle,,<a href='https://www.noazbookfest.org/walker' target='_blank'>Remy Ramirez</a>,Remy Ramirez,34.8697,-111.7610
@@ -44,4 +44,5 @@ Press,fa-solid fa-shop,#E9967A,,10x10,,,<a href='https://salinabookshelf.com' ta
 Press,media/abalone.jpg,#E9967A,,30x30,,,<a href='https://www.abalonemountainpress.com/' target='_blank'>Abalone Mountain Press</a>,Abalone Mountain Press,36.135232704743714,-111.24027008575587
 
 Press,media/thinair.jpg,#E9967A,,30x30,,,<a href='https://thinairmagazine.org/' target='_blank'>Thin Air Magazine</a>,Thin Air Magazine,35.192169267589634,-111.65409433068763
+
 
