@@ -1090,18 +1090,21 @@ $(window).on('load', function() {
         ).done(function(options, points, polylines) {
       
           function loadPolygonCsv(n) {
-      
-            $.get('./csv/Polygons' + (n === 0 ? '' : n) + '.csv', function(data) {
-              createPolygonSettings( parse([data]) )
-              loadPolygonCsv(n+1)
+            var url = './csv/Polygons' + (n === 0 ? '' : n) + '.csv';
+            $.get(url, function(data) {
+              if (data.trim().length > 0) {       // <-- only parse if file has content
+                createPolygonSettings(parse([data]));
+              }
+              loadPolygonCsv(n + 1);
             }).fail(function() { 
-              // No more sheets to load, initialize the map  
+              // No more sheets to load, initialize the map
+              console.log(url + " not found, continuing with points only.");
               onMapDataLoad( parse(options), parse(points), parse(polylines) )
-            })
+            });
       
           }
       
-          loadPolygonCsv(0)
+          loadPolygonCsv(0);
       
         })
 
