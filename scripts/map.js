@@ -280,6 +280,11 @@ $(window).on('load', function() {
   allTextLabels = [];
 
   function loadAllGeojsons(p) {
+    if (!polygonSettings.length || !getPolygonSetting(0, '_polygonsGeojsonURL').trim()) {
+        // No polygons to load, mark as complete immediately
+        completePolygons = true;
+        return;
+    }
     if (p < polygonSettings.length && getPolygonSetting(p, '_polygonsGeojsonURL').trim()) {
       // Pre-process popup properties to be used in onEachFeature below
       polygon = p;
