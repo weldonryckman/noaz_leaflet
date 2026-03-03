@@ -1,6 +1,6 @@
 Group,Marker Icon,Marker Color,Icon Color,Custom Size,Name,Image,Description,Location,Latitude,Longitude
 Pieces,fa-solid fa-book,#8FBC8F,white,10x10,Remembering How to Pray,media/Nez.jpg,<a href='https://www.noazbookfest.org/nez' target='_blank'>Shaina Nez</a>,Shaina Nez ,35.20,-111.75
-Pieces,fa-solid fa-book,#8FBC8F,white,10x10,"Dear Rain,",meda/Walker.jpg,<a href='https://www.noazbookfest.org/walker' target='_blank'>Nicole Walker</a>,Nicole Walker ,35.1983,-111.6513
+Pieces,fa-solid fa-book,#8FBC8F,white,10x10,"Dear Rain,",media/Walker.jpg,<a href='https://www.noazbookfest.org/walker' target='_blank'>Nicole Walker</a>,Nicole Walker ,35.1983,-111.6513
 Pieces,fa-solid fa-book,#8FBC8F,white,10x10,The Hidden Miracle,media/Ramirez.jpg,<a href='https://www.noazbookfest.org/walker' target='_blank'>Remy Ramirez</a>,Remy Ramirez,34.8697,-111.7610
 Pieces,fa-solid fa-book,#8FBC8F,white,10x10,Wetlands,media/Murison.jpg,<a href='https://www.noazbookfest.org/murison' target='_blank'>Stacy Murison</a>,Stacy Murison,35.108119426601,-111.6891573809564
 Pieces,fa-solid fa-book,#8FBC8F,white,10x10,Nidíyílii at Dook’o’oosłííd,media/Smith.jpg,<a href='https://www.noazbookfest.org/smith' target='_blank'>Shaniya Smith</a>,Shaniya Smith ,35.24,-111.67
@@ -60,4 +60,5 @@ Pieces,fa-solid fa-book,#8FBC8F,white,10x10,Waiting for Cheii,media/Shebala.jpg,
 Pieces,fa-solid fa-book,#8FBC8F,white,10x10,Hooghanłaní kinship song,media/Yazzie.jpg,,VeeJay Yazzie,35.192169267589634,-111.65409433068763
 Pieces,fa-solid fa-book,#8FBC8F,white,10x10,k’yawinanne an bewinne,media/Natachu.jpg,,Kobe Natachu,35.192169267589634,-111.65409433068763
 Pieces,fa-solid fa-book,#8FBC8F,white,10x10,Between Betatakin and Teec Nos Pos,media/Thompson.jpg,,Michael Thompson,36.68,-110.53
+
 Pieces,fa-solid fa-book,#8FBC8F,white,10x10,Guide,media/Magneson.jpg,,Clare Magneson,36.24,-112.39
