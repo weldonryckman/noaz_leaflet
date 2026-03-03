@@ -34,6 +34,7 @@ Table Columns,"Name,Location",Columns from Points sheet to display in Table (or 
 Table Header Color,,"Background color of table header (default is black). If desired, insert a comma and specify table text color (default is black)."
 Polyline Map Controls,,"For help, see tutorial in HandsOnDataViz.org"
 Polyline Legend Title,,Show title at top of Polyline legend (or leave blank)
-Polyline Legend Position,topleft,Display Polyline legend
+Polyline Legend Position,off,Display Polyline legend
 Polyline Legend Icon,fa-bicycle,Insert a Font Awesome free and solid icon name (example: fa-bus) or any Material Design icon name (example: rowing) or leave blank
+
 Polyline Thickness,2,Select thickness of all Polylines (in pixels)
